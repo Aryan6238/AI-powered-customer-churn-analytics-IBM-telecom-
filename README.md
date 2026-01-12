@@ -154,4 +154,4 @@ uvicorn src.api.main:app --reload
 *   **Containerization:** Re-enable Docker Compose for cloud deployment (AWS/Azure).
 
 ---
-*Built by [Your Name] for the purpose of demonstrating advanced AI engineering capabilities.*
+*Built by Aryan Jalak for the purpose of demonstrating advanced AI engineering capabilities.*
